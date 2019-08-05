@@ -1,0 +1,2 @@
+serve:
+	gunicorn main:app
